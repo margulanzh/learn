@@ -1,7 +1,7 @@
-# Bad heading v2
-- Bad point v1
+# Project heading
+- Good point v1
 - Wonderful point v2
-- Very bad point v1
+- Amazing point v1
 
 Currently, two official plugins are available:
 
