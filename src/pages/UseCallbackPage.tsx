@@ -1,6 +1,6 @@
 import { useCallback, useState } from "react";
 import { shuffle } from "../utils.ts";
-import Search from "../components/Search.tsx";
+import Search from "../components/useCallback/Search.tsx";
 
 // users list 123
 const allUsers = ["alen", "mark", "oliver", "nolan", "eve"];
