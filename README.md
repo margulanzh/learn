@@ -1,6 +1,7 @@
-# Welcome!
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules
+# Bad heading v2
+- Bad point v1
+- Wonderful point v2
+- Very bad point v1
 
 Currently, two official plugins are available:
 
