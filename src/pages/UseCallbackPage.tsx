@@ -2,6 +2,7 @@ import { useCallback, useState } from "react";
 import Search from "../components/Search.tsx";
 import { shuffle } from "../utils.ts";
 
+// users
 const allUsers = ["alen", "mark", "oliver", "nolan", "eve"];
 
 export default function useCallbackPage() {
