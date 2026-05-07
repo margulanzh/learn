@@ -3,7 +3,7 @@ import { shuffle } from "../utils.ts";
 import Search from "../components/useCallback/Search.tsx";
 
 // users list
-const allUsers = ["alen", "mark", "oliver", "nolan", "eve"];
+const allUsers = ["alen", "mark", "oliver", "nolan", "eve", "thragg"];
 
 export default function useCallbackPage() {
   const [users, setUsers] = useState(allUsers);

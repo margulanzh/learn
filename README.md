@@ -1,7 +1,5 @@
 # Project heading
-- Good point v1
-- Wonderful point v2
-- Amazing point v1
+- Learning project to get to know react features and hooks
 
 Currently, two official plugins are available:
 
