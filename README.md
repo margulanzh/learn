@@ -1,6 +1,7 @@
-# React + TypeScript + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Project heading
+- Good point v1
+- Wonderful point v2
+- Amazing point v1
 
 Currently, two official plugins are available:
 
