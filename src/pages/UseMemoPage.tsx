@@ -1,9 +1,9 @@
-import React from 'react';
 
 const UseMemoPage = () => {
+    console.log("useMemo")
     return (
         <div>
-            <h1>useMemo page</h1>
+            <h1>useMemo</h1>
         </div>
     );
 };
