@@ -13,7 +13,7 @@ export default function useCallbackPage() {
     setUsers(filteredUsers);
   }, []);
 
-  console.log("Callback Page");
+  
   return (
     <>
       <h1>useCallback</h1>
